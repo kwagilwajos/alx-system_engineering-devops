@@ -1,2 +1,2 @@
 #!/bin/bash
-while read x;do echo -n $x " ";done < <(ls -a)
+ls -a
